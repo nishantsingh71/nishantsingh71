@@ -1,31 +1,73 @@
- 📢 Nishant Singh Shekhawat
-- 👨‍💻 B.Tech Computer Science Student | Poornima University
+👋 Hi, I'm Nishant Singh Shekhawat
 
-👋 About Me:-
-- Hi, I'm Nishant Singh Shekhawat, a passionate computer science student currently pursuing my B.Tech from Poornima University. I'm enthusiastic about learning new technologies and exploring the world of programming and cybersecurity.
+🎓 B.Tech Computer Science Student | Poornima University
 
-👀 I’m interested in:-
-- Web Development
-- Cybersecurity & cloud development
-- Open Source Contribution
-- Software development 
+---
 
-🌱 I’m currently learning:-
-- Cyber Security Tools
-- Advanced Java and Web development
-- Git and GitHub for Version Control
+🚀 About Me
 
-📫 How to reach me:-
-- LinkedIn: [https://www.linkedin.com/in/nishant-singh-shekhawat-455919290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- Email: [Nishantsinghshekhwat71@gmail.com]
+I am a Computer Science student with a strong interest in Data Analytics and Technology-driven problem solving.
+Currently focused on building practical skills in data analysis, visualization, and real-world projects.
 
- ⚡ Fun fact:-
-- When I'm not coding, you can find me exploring tech blogs or playing video games!
+I believe in learning by doing — working on datasets, dashboards, and projects that can solve actual business problems.
 
-🚀 Let's Connect!
-- I’m open to collaborating on exciting projects and learning opportunities. Feel free to reach out!
+---
 
-<!---
-nishantsingh71/nishantsingh71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 My Interests
+
+- 📊 Data Analytics & Business Insights
+- 📈 Data Visualization (Tableau / Excel)
+- 🌐 Web Development (Basics)
+- 🔐 Cybersecurity (Exploring)
+- ☁️ Cloud Technologies (Beginner Level)
+
+---
+
+🌱 Currently Learning
+
+- SQL for Data Analysis
+- Excel (Advanced functions, dashboards)
+- Tableau (Data Visualization & Storytelling)
+- Python (Basics for Data Handling)
+
+---
+
+🛠️ Tools & Technologies
+
+- SQL | Excel | Tableau
+- Python (Beginner)
+- Git & GitHub
+- VS Code
+
+---
+
+📂 Projects
+
+- 📊 Amazon Sales Data Analysis
+  → Performed data cleaning, analysis & extracted business insights
+
+- 📈 Superstore Dataset Analysis
+  → Created dashboards and identified trends using data visualization tools
+
+---
+
+📫 Connect With Me
+
+- 💼 LinkedIn:
+  https://www.linkedin.com/in/nishant-singh-shekhawat-455919290
+
+- 📧 Email:
+  Nishantsinghshekhawat71@gmail.com
+
+---
+
+⚡ Fun Fact
+
+When I'm not working with data, I enjoy exploring tech trends and playing video games 🎮
+
+---
+
+🤝 Let's Collaborate
+
+I’m always open to working on data-driven projects, dashboards, and learning opportunities.
+Feel free to connect — let’s grow together 🚀
