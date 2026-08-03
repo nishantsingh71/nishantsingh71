@@ -16,10 +16,9 @@ I believe in learning by doing — working on datasets, dashboards, and projects
 🎯 My Interests
 
 - 📊 Data Analytics & Business Insights
-- 📈 Data Visualization (Tableau / Excel)
-- 🌐 Web Development (Basics)
-- 🔐 Cybersecurity (Exploring)
-- ☁️ Cloud Technologies (Beginner Level)
+- 📈 Data Visualization (PowerBI / Excel)
+- 🤖 Machine Learning
+- 📈 Business Intelligence
 
 ---
 
@@ -27,23 +26,21 @@ I believe in learning by doing — working on datasets, dashboards, and projects
 
 - SQL for Data Analysis
 - Excel (Advanced functions, dashboards)
-- Tableau (Data Visualization & Storytelling)
+- PowerBI (Data Visualization & Storytelling)
 - Python (Basics for Data Handling)
 
 ---
 
 🛠️ Tools & Technologies
 
-- SQL | Excel | Tableau
-- Python (Beginner)
-- Git & GitHub
-- VS Code
+- SQL | Excel | PowerBI
+- Python 
 
 ---
 
 📂 Projects
 
-- 📊 Amazon Sales Data Analysis
+- 📊 Marketing Campaign Analysis
   → Performed data cleaning, analysis & extracted business insights
 
 - 📈 Superstore Dataset Analysis
